@@ -1,0 +1,8 @@
+$color: #0efcff;
+$modalBoxBorderColor:#0efcff;
+@mixin space(){
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
